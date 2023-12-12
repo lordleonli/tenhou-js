@@ -12,3 +12,7 @@
       "action": "redirect",
       "to": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lordleonli/tenhou-js/main/1891.js"
     },
+  ],
+  "sendHeader": [],
+  "receiveHeader": []
+}

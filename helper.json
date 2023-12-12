@@ -1,0 +1,14 @@
+{
+  "request": [
+    {
+      "enable": true,
+      "name": "天凤",
+      "ruleType": "redirect",
+      "matchType": "regexp",
+      "pattern": "^https?://tenhou\\.net/3/[0-9a-zA-Z]+\\.js$",
+      "exclude": "",
+      "group": "未分组",
+      "isFunction": false,
+      "action": "redirect",
+      "to": "https://mjhelper.github.io/js/tenhou/code.js"
+    },
